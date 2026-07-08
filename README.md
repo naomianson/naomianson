@@ -8,9 +8,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="works_dm.png">
-  <source media="(prefers-color-scheme: light)" srcset="works_lm.png">
-  <img alt="Card stating current projects and certifications. Including CS50, and Linear Algebra." src="works_lm.png">
+  <source media="(prefers-color-scheme: dark)" srcset="current_works_dm.png">
+  <source media="(prefers-color-scheme: light)" srcset="current_works_lm.png">
+  <img alt="Card stating current projects and certifications. Including CS50, and Linear Algebra." src="current_works_lm.png">
 </picture>
 
 <br>
